@@ -1,0 +1,7 @@
+# Ignore build output
+build/
+headers.txt
+tags
+main
+main.d
+ctags-dlist
