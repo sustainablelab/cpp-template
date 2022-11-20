@@ -1,5 +1,9 @@
 My C++ template project.
 
+# What is C++
+
+https://en.cppreference.com/w/cpp/language/basic_concepts
+
 # Setup
 
 - clone
